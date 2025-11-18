@@ -1,0 +1,30 @@
+{
+    "root": {
+        "data": {
+            "id": "debfxm3mpzk0",
+            "created": 1763430478408,
+            "text": "Main Topic"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "debfxs1sqtk0",
+                    "created": 1763430491358,
+                    "text": "topic"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "debfxtcw1lc0",
+                    "created": 1763430494205,
+                    "text": "topic"
+                },
+                "children": []
+            }
+        ]
+    },
+    "template": "right",
+    "theme": "fresh-pink-compat",
+    "version": "1.4.43"
+}
