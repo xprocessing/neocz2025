@@ -3,22 +3,74 @@
         "data": {
             "id": "debfxm3mpzk0",
             "created": 1763430478408,
-            "text": "Main Topic"
+            "text": "运费插件"
         },
         "children": [
             {
                 "data": {
                     "id": "debfxs1sqtk0",
                     "created": 1763430491358,
-                    "text": "topic"
+                    "text": "抓取订单数据",
+                    "layout_right_offset": {
+                        "x": 196,
+                        "y": 0
+                    }
                 },
-                "children": []
+                "children": [
+                    {
+                        "data": {
+                            "id": "dee00jtxyo80",
+                            "created": 1763690250673,
+                            "text": "查询运费"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "dee00sm0vko0",
+                                    "created": 1763690269785,
+                                    "text": "传入服务器数据库"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "dee0148spy00",
+                                            "created": 1763690295106,
+                                            "text": "浏览器标签js查询数据"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "dee01t0095s0",
+                                                    "created": 1763690348994,
+                                                    "text": "在订单列表展示运费建议"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "dee02nitx400",
+                                            "created": 1763690415436,
+                                            "text": "刷新订单"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
             },
             {
                 "data": {
                     "id": "debfxtcw1lc0",
                     "created": 1763430494205,
-                    "text": "topic"
+                    "text": "topic",
+                    "layout_right_offset": {
+                        "x": 196,
+                        "y": 0
+                    }
                 },
                 "children": []
             }
