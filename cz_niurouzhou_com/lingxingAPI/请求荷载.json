@@ -1,0 +1,38 @@
+{
+    "sort_field": "global_purchase_time",
+    "sort_type": "desc",
+    "status": "4",
+    "tag_no": "",
+    "site_code": [],
+    "store_id": [],
+    "platform_code": [],
+    "search_field": "platform_order_name",
+    "search_value": [
+        ""
+    ],
+    "search_field_time": "global_purchase_time",
+    "start_time": "2025-10-22 00:00:00",
+    "end_time": "2025-11-21 23:59:59",
+    "offset": 0,
+    "length": 100,
+    "status_sub": [
+        5,
+        "<>"
+    ],
+    "is_pending": "1",
+    "receiver_country_code": [],
+    "order_from": "",
+    "order_type": "",
+    "buyer_note_status": "",
+    "remark_has": "",
+    "platform_status": [],
+    "address_type": "",
+    "is_marking": "",
+    "wid": "",
+    "logistics_type_id": "",
+    "logistics_provider_id": "",
+    "asin_principal_uid": [],
+    "included_bundled": "",
+    "x_ak_platform": "2",
+    "req_time_sequence": "/cepf-oms-sw/list/order$$14"
+}

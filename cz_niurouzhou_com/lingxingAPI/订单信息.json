@@ -1,0 +1,255 @@
+{
+    "code": 1,
+    "msg": "操作成功",
+    "require_id": "2354150F-61F0-DE51-C825-59F5B398B733",
+    "data": {
+        "oms_order_costing": 0,
+        "fba_order": false,
+        "receiver_country_code": "US",
+        "status": 4,
+        "remark": "",
+        "remark_attachment": [],
+        "global_order_no": "103638993756323887",
+        "platform_code": "10003",
+        "split_type": 1,
+        "is_pre_shipment": 2,
+        "site_code": "10003-MOTO",
+        "ext_params": {
+            "temu_package_sn_list": [],
+            "tk_package_sn_list": []
+        },
+        "site_name": "ebay汽配",
+        "site_text": "[eBay].ebay汽配",
+        "icon": "$",
+        "tag": [],
+        "platform_delivery_time": "",
+        "progress_bar": {
+            "type": 1,
+            "flow_node": 2,
+            "progress_num": 2,
+            "global_purchase_time": "2025-11-21 14:28:11",
+            "global_payment_time": "2025-11-21 14:28:11",
+            "global_delivery_time": "",
+            "global_review_time": "",
+            "global_distribution_time": "",
+            "logistics_time": "",
+            "global_turn_fba_time": "",
+            "cancel_time": "",
+            "global_reissue_time": "2025-11-21 14:32:18",
+            "global_freeze_time": ""
+        },
+        "base_info": {
+            "platform_name": "eBay",
+            "store_name": "youngercar",
+            "sid": 0,
+            "store_id": "110571733925264896",
+            "reference_no": "13798",
+            "store_country_code": "",
+            "store_country_name": "",
+            "order_from": 1,
+            "order_from_name": "线上订单",
+            "status": [
+                "Completed"
+            ],
+            "platform_logo_url": "https://static.distributetop.com/erp/img/platform-logo/platform_logo_ebay@2x.png",
+            "fulfilled_by_warehouse": false,
+            "seller_type": ""
+        },
+        "buyer_info": {
+            "buyer_no": "ljvkmt2oq6a",
+            "buyer_name": "ljvkmt2oq6a",
+            "buyer_email": "premiermon70@gmail.com",
+            "buyer_note": "Item Id: 356905805581\nBuyer's Vehicle: 2015 Chevrolet Cruze LT Sedan 4-Door 1.4L 1364CC 83Cu. In. l4 GAS DOHC Turbocharged",
+            "buyer_mobile": ""
+        },
+        "receive_info": {
+            "receiver_name": "Mikerlange Auguste",
+            "receiver_mobile": "8165739055",
+            "receiver_tel": "8165739055",
+            "receiver_country_code": "US",
+            "receiver_country": "US",
+            "receiver_country_name": "United States of America (USA)(美国)",
+            "postal_code": "64155-1258",
+            "state_or_region": "MO",
+            "city": "Kansas City",
+            "address_line1": "10724 N Kenwood Ave",
+            "address_line2": "",
+            "address_line3": "",
+            "doorplate_no": "",
+            "district": "",
+            "address_type": 0,
+            "receiver_company_name": ""
+        },
+        "handle_remark": "",
+        "tax_info": {
+            "recipient_tax_no": "",
+            "sender_tax_no": "",
+            "sender_tax_type": 0,
+            "eori_no": ""
+        },
+        "tax_list": [],
+        "transaction_info": {
+            "order_item_amount": "$27.99",
+            "customer_shipping_amount": "$0.00",
+            "customer_tax_amount_show": "-$2.41",
+            "customer_tip_amount": "$0.00",
+            "order_total_amount": "$30.40",
+            "transaction_fee_amount": "-$4.08",
+            "profit_amount": "$23.91",
+            "discount_amount": "$0.00",
+            "platform_tax_amount": "-$2.41",
+            "other_amount": "$0.00",
+            "commission_fee_amount": "$0.00",
+            "platform_subsidy_amount": "$0.00",
+            "cod_amount": "$0.00",
+            "gift_wrap_amount": "$0.00",
+            "points_granted_amount": "$0.00",
+            "service_amount": "$0.00",
+            "customer_tax_amount": "$2.41",
+            "other_fee": "$0.00",
+            "profit_rate": "78.65%",
+            "pre_cost_amount": "0.00",
+            "wms_shipping_price_amount": "-￥0.00",
+            "wms_outbound_cost_amount": "-￥73.33",
+            "cg_price_amount": "-￥73.33",
+            "stock_cost_amount": "-￥73.33",
+            "outbound_cost_amount": "-￥73.33",
+            "taxes_included": 0,
+            "switch_tax": 1
+        },
+        "vc_warehouse_id": "",
+        "logistics_info": {
+            "cost_currency_code": "",
+            "customer_shipping_name": [
+                "ShippingMethodStandard"
+            ],
+            "warehouse_name": [],
+            "tracking_no": [
+                ""
+            ],
+            "mark_no": [
+                ""
+            ],
+            "waybill_no": [
+                ""
+            ],
+            "pre_weight": "100.00 g",
+            "pre_fee_weight": "2430.00 g",
+            "pkg_fee_weight": "0.00 g",
+            "weight": "0.00 g",
+            "weight_unit": "",
+            "package_size": "0.0x0.0x0.0",
+            "package_size_info": [
+                "0.0",
+                "0.0",
+                "0.0",
+                ""
+            ],
+            "pre_package_size": "45.0x30.0x9.0cm",
+            "pre_package_size_info": [
+                "45.0",
+                "30.0",
+                "9.0",
+                "cm"
+            ],
+            "pre_cost_amount": "￥0",
+            "cost_amount": "0.00",
+            "wid": "",
+            "logistics_type_id": "",
+            "logistics_type_name": [],
+            "tiktok_actual_carrier_name": ""
+        },
+        "abort_message_list": [],
+        "pay_info": {
+            "pay_mode": "CustomCode",
+            "pay_status": "Complete",
+            "global_payment_time": "2025-11-21 14:28:11"
+        },
+        "order_item_info": [
+            {
+                "platform_order_no": "07-13867-18164",
+                "pic_url": "https://image.distributetop.com/lingxing-erp/901571037510692352/20250527/e2d4b6242704407198c2915d446f9c6e.jpg",
+                "listing_pic_url": "https://i.ebayimg.com/00/s/ODAwWDgwMA==/z/PrwAAOSw8tBl6VVf/$_12.JPG?set_id=880000500F",
+                "item_tag": [],
+                "id": 147204965,
+                "title": "GM1416738 For 2011-21 Chevy Cruze Sonic Trax Volt Valve Cover W/ Integrated PCV",
+                "global_item_no": "103638993756349479",
+                "product_no": "356905805581",
+                "pid": 94520,
+                "item_from": 1,
+                "variant_attr": "",
+                "local_product_name": "2011-2016雪佛兰科鲁兹塑料气门室盖套件",
+                "local_sku": "NI-GM1416738",
+                "msku": "YC-GM1416738",
+                "asin": "",
+                "unit_price_amount": "27.99",
+                "quantity": 1,
+                "discount_amount": "0.00",
+                "outbound_cost_amount": "￥73.33",
+                "remark": "",
+                "attachment": [],
+                "platform_status": "",
+                "location": "Chino, California",
+                "is_binding": 0,
+                "shipping_price_discount": "0.00",
+                "cod_amount_discount": "0.00",
+                "customer_shipping_amount": "0.00",
+                "tax_amount": "2.41",
+                "sales_revenue_amount": "30.40",
+                "order_item_no": "356905805581-10081523409307",
+                "cg_price_amount": "￥73.33",
+                "stock_cost_amount": "￥73.33",
+                "stock_deduct_id": "0",
+                "wms_outbound_cost_amount": "0.00",
+                "skuStock": 0,
+                "platform_order_name": "07-13867-18164",
+                "tag": "",
+                "is_combo": 0,
+                "product_id_url": "http://www.ebay.com/itm/356905805581",
+                "sku_is_delete": 0,
+                "is_bundled": 0,
+                "cancel_quantity": 0,
+                "new_attachment": [],
+                "stock_deduct_name": "",
+                "principal_username": [],
+                "product_tags": [],
+                "custom_fields": []
+            }
+        ],
+        "declared_info": {
+            "item_list": [],
+            "is_declared_rule": true
+        },
+        "order_action_log": [
+            {
+                "action": "自动核查",
+                "realname": "系统自动任务",
+                "msg": "留言待处理",
+                "gmt_modified": "2025-11-21 14:32:23"
+            },
+            {
+                "action": "订单进入待审核",
+                "realname": "系统自动任务",
+                "msg": "订单103638993756323887进入待审核状态",
+                "gmt_modified": "2025-11-21 14:32:18"
+            },
+            {
+                "action": "抓取订单",
+                "realname": "系统自动任务",
+                "msg": "平台订单创建成功",
+                "gmt_modified": "2025-11-21 14:32:18"
+            }
+        ],
+        "extra_info": {
+            "cod_type": 2,
+            "original_global_order_no": "",
+            "supplier_id": "",
+            "ae_oaid": "",
+            "performance_type": 0,
+            "order_document_list": []
+        },
+        "custom_fields": []
+    },
+    "req_time_sequence": "/api/platforms/oms/order_list/detail$$1",
+    "update_code": 0
+}

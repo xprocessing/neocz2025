@@ -6,8 +6,7 @@ require_once 'key.php';
 function ems_raw_calc($postcode, $weight_kg, $length_cm = 0, $width_cm = 0, $height_cm = 0) {
     $url   = "http://cpws.ems.com.cn/default/svc/web-service";
     $token = EMS_TOKEN;
-    $key   = EMS_KEY;
-
+    $key = EMS_KEY;    
     $xml_tpl = <<<XML
 <?xml version="1.0" encoding="UTF-8"?>
 <SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="http://www.example.org/Ec/">

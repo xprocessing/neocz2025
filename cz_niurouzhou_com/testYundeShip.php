@@ -6,12 +6,13 @@
  * 请求方法：POST
  * 数据格式：form-data
  */
-
+require_once 'key.php';
+echo YUNDE_APP_ID;
 function testYundeShipFeeQuery() {
     // -------------------------- 1. 基础配置（需根据实际情况修改）--------------------------
     $apiUrl = 'http://fg.wedoexpress.com/api.php?mod=apiManage&act=getShipFeeQuery'; // 接口地址
-    $userAccount = 'YOUR_USER_ACCOUNT'; // 替换为运德提供的用户标识（如WD2024XXXX）
-    $signKey = 'YOUR_SIGN_KEY'; // 替换为运德提供的签名密钥（需联系客服获取）
+    $userAccount = YUNDE_APP_ID; // 替换为运德提供的用户标识（如WD2024XXXX）
+    $signKey = YUNDE_APP_TOKEN; // 替换为运德提供的签名密钥（需联系客服获取）
 
     // -------------------------- 2. 封装content参数（运费试算核心信息）--------------------------
     // 文档要求：content为JSON格式，包含渠道、目的地、货物规格等必填项
